@@ -1,0 +1,9 @@
+Package: nl.cerbus.plsnomuteswitch
+Name: PlsNoMuteSwitch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable physical mute/ringer switch.
+Maintainer: Fusion86
+Author: Fusion86
+Section: Tweaks
